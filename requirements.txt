@@ -41,7 +41,6 @@ PyYAML==5.4.1
 requests 
 streamlit 
 tensorboard 
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.3.0
 tensorflow-estimator 
 tensorflow-hub==0.8.0
