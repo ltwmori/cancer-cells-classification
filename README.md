@@ -16,7 +16,7 @@ The web app categorizes blood cells. When you upload a picture of a blood cell t
 - google colab
 
 ## Issues
-The web app runs only locally. The deployment of the web app in the Heroku was not successful due to huge size of the repo (files' size ~525 MB, while Heroku allows max 500MB). 
-
+- The web app runs only locally. The deployment of the web app in the Heroku was not successful due to huge size of the repo (files' size ~525 MB, while Heroku allows max 500MB). 
+- accuracy: 0.8819
 <br/><br/>
 ![](app.gif) 
